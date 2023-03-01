@@ -1,0 +1,3 @@
+[submodule "visualsem"]
+	path = src/visualsem
+	url = git@github.com:floschne/visualsem.git
